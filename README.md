@@ -21,4 +21,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 # How to Use
 
-Once you have started the server open [http://localhost:3000](http://localhost:3000) to view the app. You can type in movie names in the search bar and the app shows you all movies matching the keyword. Movie data is fetched using the OMDb API.
+Once you have started the server open [http://localhost:3000](http://localhost:3000) to view the app. You can type in movie names in the search bar and the app shows you a list of movies matching the keyword. Movie data is fetched using the OMDb API.
